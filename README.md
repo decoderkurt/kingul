@@ -1,3 +1,8 @@
+x11lib-dev 설치
+gcc kingul.c -lX11
+libkh5, liboau
+
+
 # kingul
 ## Korean Keyboard for Kindle Paperwhite3
 
